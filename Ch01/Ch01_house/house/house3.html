@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>搜房</title>
+    <style type="text/css">
+        body {
+            font: 14px aroal;
+            text-align: center;
+        }
+
+        #frame {
+            width: 400px;
+        }
+
+        #left {
+            float: left;
+            width: 110px;
+        }
+
+        div.heading {
+            font: 16px arial;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        div.field {
+            margin-bottom: 10px;
+            text-align: right;
+        }
+    </style>
+    <script type="text/javascript">
+        function validateNumber(value) {
+            alert('请输入数字')
+        }
+
+        function validateZIPCode() {
+            alert("Please enter a ZIP code in the form XXXXX.");
+        }
+
+        function calcPrice() {
+            var maxPrice = document.getElementById("income").value * 4;
+            alert("你能负担得起房子的费用 :" + maxPrice + ".");
+        }
+
+        function findHouses() {
+            var bedrooms = document.getElementById("bedrooms").value;
+            var zipCode = document.getElementById("zip").value;
+
+            form.submit();
+
+        }
+    </script>
+</head>
+<body>
+<div id="frame">
+    <div class="heading">
+        准备好去找新房了吗?
+    </div>
+    <div id="left">
+        <img src="house.png" alt="House">
+    </div>
+    <form name="orderForm">
+        <div class="field">
+            输入你的年薪:<input type="text" size="12" id="income" onblur="validateNumber(this.value)">
+        </div>
+        <div class="field">
+            输入卧室的数量:<input type="text" onblur="validateNumber(this.value)" size="12" id="bedrooms">
+        </div>
+        <div class="field">
+            输入你的ZIP数字:<input onblur="validateZIPCode(this.value)" type="text" size="12" id="zip">
+        </div>
+
+        <input type="button" value="计算价格" onclick="calcPrice();">
+
+        <input type="button" value="购买房子" onclick="findHouses(this.form);">
+
+    </form>
+</div>
+</body>
+</html>
