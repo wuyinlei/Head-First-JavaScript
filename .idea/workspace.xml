@@ -21,16 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="donuts.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ch02/donuts/donuts.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="donuts1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch02/donuts/donuts1.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,14 +63,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="irock8.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="irock8.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch03/irock/irock8.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5465909">
+            <state vertical-scroll-proportion="-12.657895">
               <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saf01.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch04/saf01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.8157897">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saf03.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ch04/saf03.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3693182">
+              <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="saf02.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ch04/saf02.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.8947368">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -125,6 +149,9 @@
         <option value="$PROJECT_DIR$/Ch01/Ch01_house/house/housematches.html" />
         <option value="$PROJECT_DIR$/Ch01/Ch01_house/house/house3.html" />
         <option value="$PROJECT_DIR$/Ch02/donuts/donuts1.html" />
+        <option value="$PROJECT_DIR$/Ch04/saf02.html" />
+        <option value="$PROJECT_DIR$/Ch04/saf01.html" />
+        <option value="$PROJECT_DIR$/Ch04/saf03.html" />
       </list>
     </option>
   </component>
@@ -197,11 +224,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Ch03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="irock" />
+              <option name="myItemId" value="Ch04" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -221,11 +244,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Head-First-JavaScript\Ch04" />
       <recent name="D:\Head-First-JavaScript\Ch03" />
       <recent name="D:\Head-First-JavaScript\Ch02\house" />
       <recent name="D:\Head-First-JavaScript\Ch02" />
       <recent name="D:\Head-First-JavaScript\Ch01\Ch01_house" />
-      <recent name="D:\Head-First-JavaScript\Ch01\Ch01_irock\irock" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Head-First-JavaScript\Ch02\house" />
@@ -234,13 +257,7 @@
       <recent name="D:\Head-First-JavaScript\Ch01" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.irock8.html">
-    <configuration default="false" name="house3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Head-First-JavaScript/Ch01/Ch01_house/house/house3.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="housematches.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Head-First-JavaScript/Ch01/Ch01_house/house/housematches.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.saf03.html">
     <configuration default="false" name="donuts1_IE.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Head-First-JavaScript/Ch02/donuts1_IE.html">
       <method />
     </configuration>
@@ -248,6 +265,12 @@
       <method />
     </configuration>
     <configuration default="false" name="irock8.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Head-First-JavaScript/Ch03/irock/irock8.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="saf01.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Head-First-JavaScript/Ch04/saf01.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="saf03.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Head-First-JavaScript/Ch04/saf03.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -289,19 +312,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.house3.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.housematches.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.donuts1_IE.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.donuts2.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.irock8.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.donuts1_IE.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.donuts2.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.irock8.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.saf01.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.saf03.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.irock8.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.donuts2.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.donuts1_IE.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.house3.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.housematches.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.saf03.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.saf01.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.irock8.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.donuts2.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.donuts1_IE.html" />
       </list>
     </recent_temporary>
   </component>
@@ -527,8 +550,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch03/irock/irock8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5465909">
+        <state vertical-scroll-proportion="-12.657895">
           <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch04/saf02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8947368">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch04/saf01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8157897">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch04/saf03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3693182">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
